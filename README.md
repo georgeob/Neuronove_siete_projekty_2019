@@ -1,2 +1,2 @@
 # Neuronove_siete_projekty_2019
-Andrej Treciak - Predikcia cukrovky 
+NS_Treciak - Predikcia cukrovky 
